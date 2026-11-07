@@ -1,0 +1,6 @@
+{
+  "name": "Character Archive｜原創角色創作資料庫",
+  "description": "專為原創創作者打造的角色收藏與管理平台，收錄角色立繪、服裝造型、關係圖譜與世界觀設定。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
